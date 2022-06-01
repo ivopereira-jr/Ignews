@@ -1,0 +1,1 @@
+import '@testing-library/jest-dom/extend-expect'; // meio que da mais funcionalidades para fazer os testes
